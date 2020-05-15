@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hi everyone! Im a begginer web backend programmer. And these are my firs steps on github.
